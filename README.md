@@ -14,7 +14,7 @@ python src/train.py
 ```
 
 ## Authors
-Pouya Mirzaei Zadeh, [Your Teammates]
+Pouya Mirzaei Zadeh, Shadi sefidgar
 
 ## License
 MIT License
